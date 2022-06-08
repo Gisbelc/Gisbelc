@@ -1,3 +1,3 @@
 ### < Hola bienvenido a mi repositorio />
 
-![hello](https://user-images.githubusercontent.com/97894844/172503911-dea64acb-ea92-4620-882d-bf7898e3f6b2.gif)
+![programming-computer](https://user-images.githubusercontent.com/97894844/172505705-c39ca318-6fca-4260-950e-1bf44cad3bb7.gif)
